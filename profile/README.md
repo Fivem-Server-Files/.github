@@ -29,7 +29,7 @@ Wij nodigen actieve spelers uit om hun eigen bedrijf, systeem of script toe te v
       </a>
 </div>
 
-## Community
-<p><a href="https://dsc.gg/abnt">
-    <img src="https://img.shields.io/discord/859003391472041984?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+## Discord
+<p><a href="https://discord.gg/e5WvenhUwV">
+    <img src="https://img.shields.io/discord/1075397436253683792?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
