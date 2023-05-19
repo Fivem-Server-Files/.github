@@ -1,0 +1,35 @@
+## Over ons
+PremiumRP is een Nederlandse en Belgische FiveM Roleplay server.
+
+Bij PremiumRP krijgt iedereen kansen om te groeien in hun roleplay-vaardigheden. Ontwikkel je eigen verhaal en sluit je aan bij onze community voor groei en ontwikkeling. 
+
+Op PremiumRP staat de Community op eerste plaats, wij hechten veel waarde aan de feedback van onze spelers.
+
+Wij nodigen actieve spelers uit om hun eigen bedrijf, systeem of script toe te voegen in onze server.
+
+## Onze developers
+<div align="center" dir="auto">
+      <a href="https://github.com/CasperVlaar" rel="nofollow">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CasperVlaar&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=CasperVlaar&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+      </a>
+      <a href="https://github.com/ChastCreeper" rel="nofollow">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ChastCreeper&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ChastCreeper&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+      </a>
+      <a href="https://github.com/Chloe-qween" rel="nofollow">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Chloe-qween&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Chloe-qween&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+      </a>
+      <a href="https://github.com/Dennus1" rel="nofollow">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dennus1&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Dennus1&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+      </a>
+      <a href="https://github.com/yasmijnofficial" rel="nofollow">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yasmijnofficial&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yasmijnofficial&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+      </a>
+      <a href="https://github.com/JeffreyKroonenberg" rel="nofollow">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JeffreyKroonenberg&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JeffreyKroonenberg&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+      </a>
+</div>
+
+## Community
+<p><a href="https://dsc.gg/abnt">
+    <img src="https://img.shields.io/discord/859003391472041984?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+</a></p>
