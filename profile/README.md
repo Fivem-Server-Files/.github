@@ -33,3 +33,13 @@ Wij nodigen actieve spelers uit om hun eigen bedrijf, systeem of script toe te v
 <p><a href="https://discord.gg/e5WvenhUwV">
     <img src="https://img.shields.io/discord/1075397436253683792?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
+
+## Social Media
+<div id="badges">
+  <a href="https://www.instagram.com/premium_roleplay/">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.tiktok.com/@premiumrp.fivem?ug_source=op.auth&ug_term=Linktr.ee&utm_source=awyc6vc625ejxp86&utm_campaign=tt4d_profile_link&_r=1">
+    <img src="https://img.shields.io/badge/TikTok-blueviolet?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+  </a>
+</div>
