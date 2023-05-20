@@ -8,8 +8,8 @@ Op PremiumRP staat de Community op eerste plaats, wij hechten veel waarde aan de
 Wij nodigen actieve spelers uit om hun eigen bedrijf, systeem of script toe te voegen in onze server.
 
 ## Onze developers
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ChastCreeper&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ChastCreeper&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <div align="center" dir="auto">
       <a href="https://github.com/CasperVlaar" rel="nofollow">
           <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CasperVlaar&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=CasperVlaar&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
