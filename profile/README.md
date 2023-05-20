@@ -13,7 +13,7 @@ Wij nodigen actieve spelers uit om hun eigen bedrijf, systeem of script toe te v
           <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CasperVlaar&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=CasperVlaar&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
       </a>
       <a href="https://github.com/ChastCreeper" rel="nofollow">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ChastCreeper&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ChastCreeper&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
+          <img width="45%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ChastCreeper&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats-ruby-one.vercel.app/api?username=ChastCreeper&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
       </a>
       <a href="https://github.com/Chloe-qween" rel="nofollow">
           <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Chloe-qween&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Chloe-qween&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
