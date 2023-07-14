@@ -21,15 +21,6 @@ Wij nodigen actieve spelers uit om hun eigen bedrijf, systeem of script toe te v
       <a href="https://github.com/RubenDck" rel="nofollow">
           <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RubenDck&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=RubenDck&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
       </a>
-      <a href="https://github.com/Dennus1" rel="nofollow">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dennus1&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Dennus1&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
-      </a>
-      <a href="https://github.com/yasmijnofficial" rel="nofollow">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yasmijnofficial&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yasmijnofficial&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
-      </a>
-      <a href="https://github.com/anthonyKrp" rel="nofollow">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anthonyKrp&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anthonyKrp&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
-      </a>
       <a href="https://github.com/martijnboy" rel="nofollow">
           <img width="45%" src="https://github-readme-stats.vercel.app/api?username=martijnboy&show_icons=true&theme=blueberry&count_private=true&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=martijnboy&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
       </a>
